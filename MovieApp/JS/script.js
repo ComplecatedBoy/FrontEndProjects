@@ -44,7 +44,6 @@ function getclass(num){
     return 'red'
 }
 
-
 form.addEventListener("submit",(e)=>{
     e.preventDefault()
     const term=search.value;
