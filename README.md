@@ -1,4 +1,4 @@
 # FrontEndProjects
 A Repository To Store Projects Created During The Learning
 
-[See Live](https://ComplecatedBoy.github.io/MovieApp/)
+[See Live](https://ComplecatedBoy.github.io/FrontEndProjects/MovieApp/)
