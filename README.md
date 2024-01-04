@@ -27,4 +27,4 @@
 ### [StickyNavbar](https://complecatedboy.github.io/FrontEndProjects/StickyNavbar/)
 >A Sticky Navbar
 
-<small>Click on heading to see live project</small
+<small>Click on heading to see live project</small>
