@@ -1,6 +1,8 @@
 # FrontEndProjects
 <bold>Mini Projects</bold>
+
 <hr />
+
 ### [StopWatch](https://complecatedboy.github.io/FrontEndProjects/StopWatch/)
 >A full functional StopWatch.
 
