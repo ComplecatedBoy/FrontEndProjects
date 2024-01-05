@@ -21,9 +21,6 @@
 ### [MovieApp](https://complecatedboy.github.io/FrontEndProjects/MovieApp/)
 >Using [moviedb](https://www.themoviedb.org/) Api for fetching movies information.
 
-### [BackgroundChanger](https://complecatedboy.github.io/FrontEndProjects/BackgroundChanger/)
->Given The toggle Button to change BackGround of project.
-
 ### [StickyNavbar](https://complecatedboy.github.io/FrontEndProjects/StickyNavbar/)
 >A Sticky Navbar
 
